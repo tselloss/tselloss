@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Engineering
 - 📫 How to reach me? Email me : karachristos.e@outlook.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula&count_private=true)
