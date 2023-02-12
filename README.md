@@ -40,7 +40,7 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.Net world**. <img width="15%" align="right" alt="Github Image"  /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.Net world**./><br>
 
 
 
