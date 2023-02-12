@@ -1,6 +1,7 @@
 <div align="center" width="60">
 <p><strong><font size="20">My name is Evangelos Karachristos </font></strong></p>
   <img src="https://github.com/tselloss/tselloss/blob/main/314002262_518589893493193_1069472813813031048_n-modified.png" href="https://github.com/tselloss"   alt="text" width="20%"/><br> 
+
 </div> 
 <div align="center" width="50">
 <p><strong>I am in the process of obtaining a Master's degree @Unipi. 
@@ -12,15 +13,27 @@
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+<div align="center" style="display: flex; flex-direction: row;" width="700">
+ <img class="img" src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" />
+ <img class="img" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"/>
+ <img class="img" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+ <img class="img" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
+ <img class="img" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
+ <img class="img" src="https://img.shields.io/badge/Git-black?logo=git" /> 
+ <img class="img" src="https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white"/>  
+ <img class="img" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>  
+ <img class="img" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white"/>
+</div>
+
+
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula" />
+</div>
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tselloss&hide=javascript,css,scss,html&theme=dracula" />
+</div>
+
+
 
 ```dart
 // tools_I_use organized
@@ -36,12 +49,7 @@ class About extends Me {
 }
 ```
 
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula" />
+  <div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white" />
+    <p><strong><font size="20">Reach me on LinkedIn: https://www.linkedin.com/in/karachristos-e/ </font></strong></p>
 </div>
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tselloss&hide=javascript,css,scss,html&theme=dracula" />
-</div>
-
-
-
