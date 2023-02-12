@@ -1,6 +1,6 @@
 <div align="center" width="60">
 <p><strong><font size="20">My name is Evangelos Karachristos </font></strong></p>
-  
+  <img src="https://github.com/tselloss/tselloss/blob/main/314002262_518589893493193_1069472813813031048_n-modified.png" href="https://github.com/tselloss"   alt="text" width="20%"/><br> 
 </div> 
 <div align="center" width="50">
 <p><strong>I am in the process of obtaining a Master's degree @Unipi. 
