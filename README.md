@@ -6,6 +6,12 @@
 <br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence. 
 <br><br> Vibing to : 🎧  </strong></p>
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/tselloss) <br>
+
+
+![Totals Hits](https://komarev.com/ghpvc/?username=tsellos&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftsellos&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+</div>
 
 <hr></hr>
 
@@ -19,7 +25,6 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 
-<hr></hr>
 ```dart
 // tools_I_use organized
 class About extends Me { 
@@ -33,8 +38,6 @@ class About extends Me {
   };
 }
 ```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.Net world**<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula)
