@@ -9,4 +9,4 @@
 [![](./3-stats.svg)](https://github.com/vn7n24fzkq/tselloss) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/tselloss)
 
 
-![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/tokyonight/tsellos.svg)
