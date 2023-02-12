@@ -42,7 +42,7 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.Net world**<br>
 
 <div align="center" >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsellos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsellos&langs_count=8)](https://github.com/tsellos/github-readme-stats)
 
 </div>
 
