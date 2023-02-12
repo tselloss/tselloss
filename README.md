@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center" width="60">
 
 
 <p><strong><font size="20">My name is Evangelos Karachristos </font></strong></p>
