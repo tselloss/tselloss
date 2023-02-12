@@ -6,7 +6,7 @@
 <br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence. 
 <br><br> Vibing to : 🎧  </strong></p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=qscec1h3y4uj7ra7ckcyoppjy)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=tselloss)
 
 <!-- 
 ![Totals Hits](https://komarev.com/ghpvc/?username=tsellos&style=flat&color=orange&label=PROFILE+VIEWS)
