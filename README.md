@@ -6,9 +6,6 @@
 <br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence. 
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/qscec1h3y4uj7ra7ckcyoppjy) <br>
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qscec1h3y4uj7ra7ckcyoppjy)
 
 
 <!-- 
