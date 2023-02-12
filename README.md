@@ -1,7 +1,7 @@
 <div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
-<p><strong><font size="16">My name is Evangelos Karachristos  </strong></p>
+<p><strong><font size="16">My name is Evangelos Karachristos </font></strong></p>
 <p><strong>I am in the process of obtaining a Master's degree @Unipi. 
 <br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence. 
 <br><br> Vibing to : 🎧  </strong></p>
