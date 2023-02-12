@@ -1,7 +1,8 @@
 <div align="center" width="60">
-
-
 <p><strong><font size="20">My name is Evangelos Karachristos </font></strong></p>
+  
+</div> 
+<div align="center" width="50">
 <p><strong>I am in the process of obtaining a Master's degree @Unipi. 
 <br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence. 
 <br><br> Vibing to : 🎧  </strong></p>
