@@ -41,9 +41,9 @@ class About extends Me {
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **.Net world**<br>
 
-<div align="center" >
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsellos&show_icons=true&theme=dracula)
-</div>
+<div align="center" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsellos&show_icons=true&theme=dracula) >
+
+
 
 
 
