@@ -15,14 +15,13 @@
 
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
   <img height=50 src="https://cdn.simpleicons.org/csharp/239120" />
+  <img height=50 src="https://cdn.simpleicons.org/postgresql/4169E1" />
+  <img height=50 src="https://cdn.simpleicons.org/sqlite/003B57" />  
+  <img height=50 src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
+  <img height=50 src="https://cdn.simpleicons.org/intellijidea/FFFFFF" />
+  <img height=50 src="https://cdn.simpleicons.org/apachetomcat/F8DC75" />  
   <img height=50 src="https://cdn.simpleicons.org/git/F05032" />  
   <img height=50 src="https://cdn.simpleicons.org/json/FFFFFF" />
-  <img height=50 src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
-  <img height=50 src="https://cdn.simpleicons.org/postgresql/4169E1" />
-  <img height=50 src="https://cdn.simpleicons.org/sqlite/003B57" />
-  <img height=50 src="https://cdn.simpleicons.org/java/FFFFFF" />
-  <img height=50 src="https://cdn.simpleicons.org/intellijidea/FFFFFF" />
-  <img height=50 src="https://cdn.simpleicons.org/dot-net/512BD4" />
 </div>
 
 
