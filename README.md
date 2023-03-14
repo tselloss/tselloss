@@ -13,7 +13,7 @@
 
 <hr></hr>
 
-<div class="DevIcons" style="display: inline; margin: 1.5rem">
+<div align="center" class="DevIcons" style="display: inline; margin: 1.5rem">
   <img height=50 src="https://cdn.simpleicons.org/csharp/239120" />
   <img height=50 src="https://cdn.simpleicons.org/postgresql/4169E1" />
   <img height=50 src="https://cdn.simpleicons.org/sqlite/003B57" />  
