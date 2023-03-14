@@ -13,16 +13,16 @@
 
 <hr></hr>
 
-<div align="center" style="display: flex; flex-direction: row;" width="700">
- <img class="img" src="https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange" />
- <img class="img" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white"/>
- <img class="img" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
- <img class="img" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
- <img class="img" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white" />
- <img class="img" src="https://img.shields.io/badge/Git-black?logo=git" /> 
- <img class="img" src="https://img.shields.io/badge/IntelliJ IDEA-black?logo=intellij-idea&logoColor=white"/>  
- <img class="img" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>  
- <img class="img" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white"/>
+<div class="DevIcons" style="display: inline; margin: 1.5rem">
+          <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+          <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+          <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg" />
+          <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
+          <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" />
+          <img height=50 src="" />
+          <img height=50 src="" />
+          <img height=50 src="" />
+          <img height=50 src="" />
 </div>
 
 
