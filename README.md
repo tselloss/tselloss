@@ -14,7 +14,7 @@
 <hr></hr>
 
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
-  <img height=50 src="https://cdn.simpleicons.org/git/00ccff99" />
+  <img height=50 src="https://cdn.simpleicons.org/git/F05032" />
   <img height=50 src="" />
   <img height=50 src="" />
   <img height=50 src="" />
