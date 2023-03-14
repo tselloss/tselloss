@@ -12,7 +12,7 @@
 </div>
 
 <hr></hr>
-
+[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
           <img height=50 src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo" />
           <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
@@ -24,7 +24,7 @@
           <img height=50 src="" />
           <img height=50 src="" />
 </div>
-[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
+
 
 <div align="center" style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula" />
