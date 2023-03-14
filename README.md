@@ -16,7 +16,7 @@
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
   <img height=50 src="https://cdn.simpleicons.org/csharp/239120" />
   <img height=50 src="https://cdn.simpleicons.org/git/F05032" />  
-  <img height=50 src="https://cdn.simpleicons.org/json/000000" />
+  <img height=50 src="https://cdn.simpleicons.org/json/111111" />
   <img height=50 src="https://cdn.simpleicons.org//" />
   <img height=50 src="https://cdn.simpleicons.org//" />
   <img height=50 src="https://cdn.simpleicons.org//" />
