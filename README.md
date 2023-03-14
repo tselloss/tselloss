@@ -14,7 +14,7 @@
 <hr></hr>
 
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
-          <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" fill:#512BD4/>
+          <img height=50 src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo" />
           <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg" />
           <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
