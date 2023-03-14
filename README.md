@@ -14,15 +14,15 @@
 <hr></hr>
 
 <div class="DevIcons" style="display: inline; margin: 1.5rem">
-  <img height=50 src="https://cdn.simpleicons.org/git/F05032" />
-  <img height=50 src="" />
-  <img height=50 src="" />
-  <img height=50 src="" />
-  <img height=50 src="" />
-  <img height=50 src="" />
-  <img height=50 src="" />
-  <img height=50 src="" />
-  <img height=50 src="" />
+  <img height=50 src="https://cdn.simpleicons.org/csharp/239120" />
+  <img height=50 src="https://cdn.simpleicons.org/git/F05032" />  
+  <img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg/000000" />
+  <img height=50 src="https://cdn.simpleicons.org//" />
+  <img height=50 src="https://cdn.simpleicons.org//" />
+  <img height=50 src="https://cdn.simpleicons.org//" />
+  <img height=50 src="https://cdn.simpleicons.org//" />
+  <img height=50 src="https://cdn.simpleicons.org//" />
+  <img height=50 src="https://cdn.simpleicons.org//" />
 </div>
 
 
