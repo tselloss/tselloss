@@ -25,12 +25,6 @@
 </div>
 
 
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=dracula" />
-</div>
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tselloss&hide=javascript,css,scss,html&theme=dracula" />
-</div>
 
 
 
