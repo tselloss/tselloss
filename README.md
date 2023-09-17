@@ -13,36 +13,24 @@
 
 <hr></hr>
 
-<div align="center" class="DevIcons" style="display: inline; margin: 1.5rem">
-  <img height=50 src="https://cdn.simpleicons.org/csharp/239120" />
-  <img height=50 src="https://cdn.simpleicons.org/postgresql/4169E1" />
-  <img height=50 src="https://cdn.simpleicons.org/sqlite/003B57" />  
-  <img height=50 src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
-  <img height=50 src="https://cdn.simpleicons.org/intellijidea/FFFFFF" />
-  <img height=50 src="https://cdn.simpleicons.org/apachetomcat/F8DC75" />  
-  <img height=50 src="https://cdn.simpleicons.org/git/F05032" />  
-  <img height=50 src="https://cdn.simpleicons.org/json/FFFFFF" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tselloss&label=Profile%20views&color=0e75b6&style=flat" alt="tselloss" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tselloss" alt="tselloss" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karachristos-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karachristos-e" height="30" width="40" /></a>
+<a href="https://instagram.com/tselloss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tselloss" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/tselloss"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tselloss" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tselloss&show_icons=true&locale=en&layout=compact" alt="tselloss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&locale=en" alt="tselloss" /></p>
 
 
-
-
-
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "C# .Net", "C"},
-    "OtherLanguages" : { "HTML", "CSS", "Json" },
-    "Database" : { "PostgreSQL", "Sqlite" },
-    "Editors" : { "Visual Studio", "IntelliJ" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Photoshop", "Lightroom" }
-  };
-}
-```
-
-  <div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white" />
-    <p><strong><font size="20">Reach me on LinkedIn: https://www.linkedin.com/in/karachristos-e/ </font></strong></p>
-</div>
