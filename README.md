@@ -4,8 +4,8 @@
 
 </div> 
 <div align="center" width="50">
-<p><strong>I am in the process of obtaining a Master's degree @Unipi. 
-<br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence. 
+<p><strong>I am recently graduate Master's degree 
+<br><br>In the field of Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence @Unipi. 
 <br><br> Vibing to : 🎧  </strong></p>
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
