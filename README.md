@@ -1,74 +1,81 @@
-# Evangelos Karachristos
-
 <div align="center">
-  <img src="https://github.com/tselloss/tselloss/blob/main/314002262_518589893493193_1069472813813031048_n-modified.png" alt="Profile" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/tselloss/tselloss/blob/main/314002262_518589893493193_1069472813813031048_n-modified.png" alt="Profile" width="150" style="border-radius: 50%;" />
+
+  # 👋 Hi, I'm Evangelos Karachristos
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;.NET+%7C+Java+%7C+Docker+%7C+Cloud;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+  <img src="https://komarev.com/ghpvc/?username=tselloss&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/tselloss?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </div>
-
-## About Me
-
-Recently graduated **Master's Degree**
-- **Advanced Informatics and Computing Systems**
-- **Software Development and Artificial Intelligence** @ Unipi
-- Currently vibing 🎧
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tselloss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</div>
+## 🎓 About Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tselloss" alt="GitHub Trophy">
-</div>
+- 🏫 **Master's Degree** in **Advanced Informatics & Computing Systems**  — Specialization in **Software Development and Artificial Intelligence** @ [UniPi](https://www.unipi.gr/)
+- 💼 Passionate about building robust backends, clean architecture, and intelligent systems
+- 🌱 Currently exploring **MLOps**, **cloud-native** development & **LLMs**
+- 🎧 Currently vibing — music makes code better
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/karachristos-e)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tselloss)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karachristos-e)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tselloss)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tsellosskr)
+
+</div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-</p>
+<div align="center">
+
+### Backend & Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+### DevOps & Infrastructure
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+
+### Databases & Storage
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tselloss&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tselloss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tselloss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## ☕ Support
-
 <div align="center">
-  <a href="https://www.buymeacoffee.com/tsellosskr">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=tselloss&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tselloss&show_icons=true&locale=en&layout=compact" alt="Most Used Languages">
+  <i>⚡ "First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
