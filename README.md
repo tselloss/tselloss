@@ -109,16 +109,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tselloss&show_icons=true&theme=tokyonight&locale=en&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tselloss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tselloss&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tselloss&theme=tokyonight" alt="Repos Per Language" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tselloss&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tselloss&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tselloss&theme=tokyonight&utcOffset=2" alt="Productive Time" />
 </div>
 
 <div align="center">
